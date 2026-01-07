@@ -1,5 +1,9 @@
 # 💫 About Me:
-i'm currently working in nexorra technosolve company as a software devloper.<br>and now in study i pursuing degree in master in computer science <br>and now i am leaning software testing manual+automation also .
+I am a Software Developer currently working at Nexorra Technosolve, where I contribute to building and maintaining reliable, scalable software solutions. I have a strong foundation in computer science and practical experience in full-stack web development.
+
+Alongside my professional role, I am pursuing a Master’s degree in Computer Science, which helps me continuously strengthen my technical knowledge and problem-solving skills.
+
+To broaden my expertise, I am also actively learning Software Testing, including Manual Testing and Automation Testing, with a focus on improving software quality, reliability, and performance. I am passionate about learning new technologies, writing clean code, and delivering efficient, real-world solutions.
 
 
 ## 🌐 Socials:
